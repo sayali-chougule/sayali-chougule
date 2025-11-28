@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_logo.svg" alt="GCP" width="40" height="40"/></a>
+<!-- <a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_logo.svg" alt="GCP" width="40" height="40"/></a> -->
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Airflow" width="40" height="40"/></a>
+<!-- <a href="https://airflow.apache.org/" target="_blank"><img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Airflow" width="40" height="40"/></a> -->
 <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/docs/latest/_images/mlflow-logo-light.png" alt="MLflow" width="40" height="40"/></a>
 <a href="https://kubeflow.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/35583233?s=200&v=4" alt="Kubeflow" width="40" height="40"/></a>
 </p>
