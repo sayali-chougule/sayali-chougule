@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+My name is Sayali, and I'm a Drexel trained Data Scientist interested in Machine Learning, AI!
+
+- 🔭 I’m currently working on Machine Learning projects.
+- 🌱 I’m currently learning Machine Learning algorithms.
+- 👯 I’m looking to collaborate on machine learning projects, especially in areas like NLP, data analytics, and computer vision.
+- 🤔 I’m looking for help with improving my model-building skills, optimizing ML workflows, and understanding real-world deployment best practices.
+- 📫 How to reach me: sayalichougule2269@gmail.com
 
 <!--
 **sayali-chougule/sayali-chougule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
