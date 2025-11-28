@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">✨ More About Me</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **LLM Orchestration (LangChain, LlamaIndex), Multi-Agent Systems, and Advanced MLOps (Kubeflow, Airflow)**
-- 👯 I’m looking to collaborate on **AI/ML research projects, LLM-based applications, and real-world data-driven solutions**
-- 🤔 I’m looking for help with **building production-grade AI Agents and fine-tuning large language models**
+- 🔭 I’m currently working on **building data pipelines and analytics for EV Charging ecosystems focusing on CPO, charging sessions analysis, energy forecasting, and KPIs dashboards**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 👯 I’m looking to collaborate on **machine learning projects, especially in areas like NLP, data analytics, and computer vision**
+- 🤔 I’m looking for help with **improving my model-building skills, optimizing ML workflows, and understanding real-world deployment best practices**
 - 💬 Ask me about **Data Science, Machine Learning, Computer Vision, NLP, GenAI, and Cloud MLOps**
 - 😄 Pronouns: **She/Her**
 
