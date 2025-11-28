@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sayalichougule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayalichougule" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayali2269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayalichougule" height="30" width="40" /></a>
 <!-- <a href="mailto:sc4385@drexel.edu" class="contact-button btn-email"><i class="fas fa-envelope"></i> </a> -->
-<a href="mailto:sc4385@drexel.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Email" height="30" width="40" />
-</a>
+<a href="mailto:sc4385@drexel.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
