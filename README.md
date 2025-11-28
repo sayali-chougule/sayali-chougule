@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sayali Chougule</h1>
 <h3 align="center">Data Scientist | AI/ML Engineer | LLM & AI Agent Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="coding" width="400" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat" alt="kiranshidruk" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat" alt="kiranshidruk" /> </p> -->
 
 - 🎓 **Master’s in Data Science @ Drexel University**
 - 💻 **Data Scientist @ Nexerios Corp**
