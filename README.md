@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat" alt="kiranshidruk" /> </p> -->
+<p align="left"> <img [src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftanyaaa05&psig=AOvVaw0nh5n1wxfRaiOjjqv4UK46&ust=1764443958842000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCGj47IlZEDFQAAAAAdAAAAABAE)" alt="sayalichougule" /> </p>
 
 - 🎓 **Master’s in Data Science @ Drexel University**
 - 💻 **Data Scientist @ Nexerios Corp**
