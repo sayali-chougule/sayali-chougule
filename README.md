@@ -75,12 +75,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">🎓 Certifications</h3>
 <ul>
-  <li>🎖 IBM Professional Data Science Certificate</li>
-  <li>🎖 Post Graduate Program in AI & ML (2023)</li>
+  <li>🎖 Microsoft AzureAZ-400</li>
+  <li>🎖 AWS Cloud Practitioner</li>
 </ul>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranshidruk&show_icons=true&locale=en&layout=compact" alt="kiranshidruk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranshidruk&show_icons=true&locale=en" alt="kiranshidruk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranshidruk&" alt="kiranshidruk" /></p>
